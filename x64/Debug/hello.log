@@ -1,0 +1,13 @@
+﻿  hello.cpp
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(45,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(45,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(45,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(45,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(46,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(46,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(52,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(52,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\hello.cpp(66,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hello.vcxproj -> C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\x64\Debug\hello.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

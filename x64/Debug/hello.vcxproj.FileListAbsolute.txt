@@ -1,0 +1,3 @@
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\x64\Debug\hello.exe
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\x64\Debug\hello.vcxproj.CopyComplete
+C:\CODE ASSIGNMENTS UNI\KTTL LAB\LAB 3\hello\x64\Debug\raylib.dll
